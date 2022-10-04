@@ -1,0 +1,2 @@
+MemoryLane/** filter=lfs diff=lfs merge=lfs -text
+Rooster/** filter=lfs diff=lfs merge=lfs -text
